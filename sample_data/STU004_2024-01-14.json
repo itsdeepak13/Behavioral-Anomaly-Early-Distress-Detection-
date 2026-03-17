@@ -1,0 +1,32 @@
+{
+  "session_id": "sess_STU004_20240114",
+  "person_id": "STU004",
+  "name": "Kavya Reddy",
+  "date": "2024-01-14",
+  "timestamp": "2024-01-14T09:10:00",
+  "detected": true,
+  "face_confidence": 0.93,
+  "wellbeing_score": 72.0,
+  "social_engagement": 67.0,
+  "gaze": {
+    "eye_contact_frames": 147,
+    "total_frames": 320,
+    "eye_contact_ratio": 0.46,
+    "dominant_direction": "forward",
+    "downward_ratio": 0.18
+  },
+  "energy": {
+    "movement_score": 41.5,
+    "restlessness_score": 28.5,
+    "combined_energy": 70.0
+  },
+  "emotions": {
+    "happy": 0.4,
+    "sad": 0.09,
+    "angry": 0.04,
+    "fear": 0.03,
+    "disgust": 0.01,
+    "surprise": 0.1,
+    "neutral": 0.33
+  }
+}

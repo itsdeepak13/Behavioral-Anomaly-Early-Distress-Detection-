@@ -1,0 +1,24 @@
+{
+  "session_id": "sess_STU003_20240116",
+  "person_id": "STU003",
+  "name": "Rahul Verma",
+  "date": "2024-01-16",
+  "timestamp": "2024-01-16T09:10:00",
+  "detected": false,
+  "face_confidence": 0.0,
+  "wellbeing_score": null,
+  "social_engagement": null,
+  "gaze": {
+    "eye_contact_frames": 0,
+    "total_frames": 320,
+    "eye_contact_ratio": 0.0,
+    "dominant_direction": "none",
+    "downward_ratio": 0.0
+  },
+  "energy": {
+    "movement_score": 0.0,
+    "restlessness_score": 0.0,
+    "combined_energy": 0.0
+  },
+  "emotions": {}
+}

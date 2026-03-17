@@ -1,0 +1,32 @@
+{
+  "session_id": "sess_STU002_20240117",
+  "person_id": "STU002",
+  "name": "Priya Nair",
+  "date": "2024-01-17",
+  "timestamp": "2024-01-17T09:10:00",
+  "detected": true,
+  "face_confidence": 0.93,
+  "wellbeing_score": 60.0,
+  "social_engagement": 40.0,
+  "gaze": {
+    "eye_contact_frames": 0,
+    "total_frames": 320,
+    "eye_contact_ratio": 0.0,
+    "dominant_direction": "downward",
+    "downward_ratio": 0.8
+  },
+  "energy": {
+    "movement_score": 41.5,
+    "restlessness_score": 26.5,
+    "combined_energy": 68.0
+  },
+  "emotions": {
+    "happy": 0.08,
+    "sad": 0.3,
+    "angry": 0.05,
+    "fear": 0.16,
+    "disgust": 0.03,
+    "surprise": 0.04,
+    "neutral": 0.34
+  }
+}

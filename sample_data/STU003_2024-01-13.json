@@ -1,0 +1,32 @@
+{
+  "session_id": "sess_STU003_20240113",
+  "person_id": "STU003",
+  "name": "Rahul Verma",
+  "date": "2024-01-13",
+  "timestamp": "2024-01-13T09:10:00",
+  "detected": true,
+  "face_confidence": 0.93,
+  "wellbeing_score": 62.0,
+  "social_engagement": 58.0,
+  "gaze": {
+    "eye_contact_frames": 128,
+    "total_frames": 320,
+    "eye_contact_ratio": 0.4,
+    "dominant_direction": "forward",
+    "downward_ratio": 0.22
+  },
+  "energy": {
+    "movement_score": 40.5,
+    "restlessness_score": 29.5,
+    "combined_energy": 70.0
+  },
+  "emotions": {
+    "happy": 0.3,
+    "sad": 0.15,
+    "angry": 0.06,
+    "fear": 0.05,
+    "disgust": 0.02,
+    "surprise": 0.08,
+    "neutral": 0.34
+  }
+}

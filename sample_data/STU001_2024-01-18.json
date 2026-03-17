@@ -1,0 +1,32 @@
+{
+  "session_id": "sess_STU001_20240118",
+  "person_id": "STU001",
+  "name": "Aryan Sharma",
+  "date": "2024-01-18",
+  "timestamp": "2024-01-18T09:10:00",
+  "detected": true,
+  "face_confidence": 0.93,
+  "wellbeing_score": 41.0,
+  "social_engagement": 48.0,
+  "gaze": {
+    "eye_contact_frames": 70,
+    "total_frames": 320,
+    "eye_contact_ratio": 0.22,
+    "dominant_direction": "forward",
+    "downward_ratio": 0.42
+  },
+  "energy": {
+    "movement_score": 40.5,
+    "restlessness_score": 29.5,
+    "combined_energy": 70.0
+  },
+  "emotions": {
+    "happy": 0.1,
+    "sad": 0.36,
+    "angry": 0.07,
+    "fear": 0.12,
+    "disgust": 0.05,
+    "surprise": 0.03,
+    "neutral": 0.27
+  }
+}
